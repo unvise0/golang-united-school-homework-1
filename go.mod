@@ -1,4 +1,4 @@
-module github.com/unvise/golang-united-school-homework-1
+module solution
 
 go 1.17
 
